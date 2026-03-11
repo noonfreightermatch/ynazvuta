@@ -20,3 +20,4 @@
 - 2026-03-04: Minor code improvements
 - 2026-03-04: Refactor utility functions
 - 2026-03-10: Update changelog
+- 2026-03-11: Fix configuration settings
