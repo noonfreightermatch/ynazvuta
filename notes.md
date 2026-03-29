@@ -28,3 +28,4 @@
 - 2026-03-24: Fix configuration settings
 - 2026-03-24: Clean up helper scripts
 - 2026-03-24: Fix configuration settings
+- 2026-03-29: Update documentation
