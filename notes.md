@@ -33,3 +33,4 @@
 - 2026-03-29: Clean up helper scripts
 - 2026-04-03: Optimize build workflow
 - 2026-04-05: Refactor utility functions
+- 2026-04-05: Clean up helper scripts
