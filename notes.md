@@ -39,3 +39,4 @@
 - 2026-04-13: Optimize build workflow
 - 2026-04-18: Update changelog
 - 2026-04-21: Minor code improvements
+- 2026-04-21: Optimize build workflow
