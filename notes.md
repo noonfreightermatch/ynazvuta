@@ -41,3 +41,4 @@
 - 2026-04-21: Minor code improvements
 - 2026-04-21: Optimize build workflow
 - 2026-04-27: Update project notes
+- 2026-04-27: Refactor utility functions
