@@ -45,3 +45,4 @@
 - 2026-04-27: Update changelog
 - 2026-05-03: Update project notes
 - 2026-05-03: Minor code improvements
+- 2026-05-10: Fix configuration settings
