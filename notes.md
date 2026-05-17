@@ -46,3 +46,4 @@
 - 2026-05-03: Update project notes
 - 2026-05-03: Minor code improvements
 - 2026-05-10: Fix configuration settings
+- 2026-05-17: Clean up helper scripts
