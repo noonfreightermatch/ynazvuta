@@ -48,3 +48,4 @@
 - 2026-05-10: Fix configuration settings
 - 2026-05-17: Clean up helper scripts
 - 2026-05-24: Clean up helper scripts
+- 2026-05-29: Fix configuration settings
