@@ -50,3 +50,4 @@
 - 2026-05-24: Clean up helper scripts
 - 2026-05-29: Fix configuration settings
 - 2026-05-29: Update project notes
+- 2026-06-08: Clean up helper scripts
