@@ -56,3 +56,4 @@
 - 2026-06-21: Clean up helper scripts
 - 2026-06-21: Update changelog
 - 2026-06-26: Update changelog
+- 2026-06-26: Clean up helper scripts
