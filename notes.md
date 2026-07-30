@@ -67,3 +67,4 @@
 - 2026-07-26: Clean up helper scripts
 - 2026-07-30: Update changelog
 - 2026-07-30: Minor code improvements
+- 2026-07-30: Fix configuration settings
