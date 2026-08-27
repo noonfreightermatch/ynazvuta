@@ -72,3 +72,4 @@
 - 2026-08-16: Update project notes
 - 2026-08-23: Clean up helper scripts
 - 2026-08-27: Clean up helper scripts
+- 2026-08-27: Minor code improvements
