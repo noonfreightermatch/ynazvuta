@@ -78,3 +78,4 @@
 - 2026-09-12: Update changelog
 - 2026-09-12: Update project notes
 - 2026-09-20: Update documentation
+- 2026-09-20: Clean up helper scripts
