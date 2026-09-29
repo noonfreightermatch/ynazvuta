@@ -81,3 +81,4 @@
 - 2026-09-20: Clean up helper scripts
 - 2026-09-26: Optimize build workflow
 - 2026-09-29: Minor code improvements
+- 2026-09-29: Refactor utility functions
