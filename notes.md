@@ -86,3 +86,4 @@
 - 2026-10-02: Minor code improvements
 - 2026-10-02: Update changelog
 - 2026-10-03: Minor code improvements
+- 2026-10-03: Fix configuration settings
